@@ -1,8 +1,8 @@
 ### be well to my profile 👋
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, RUBY, RUBY OR RAILS.
-- 👯 I’m looking to collaborate on with the github community my future knowledge.
-- 🤔 I’m looking for help with more efficient study in programming.
-- 📫 How to reach me: alisonfr83@gmail.com
-
+🚀 Fullstack Developer | JavaScript, TypeScript | React.js, React Native | Node.js, NestJS | C#, Django | Kotlin | Web & Mobile
+🌱 Currently learning: HTML, CSS, JavaScript, Ruby, Ruby on Rails
+👯 Looking to collaborate with the GitHub community and apply my growing knowledge in real projects
+🤔 Seeking ways to study programming more efficiently
+📫 How to reach me: alisonfr83@gmail.com | LinkedIn
 
